@@ -22,7 +22,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <p align="center">
 Completed Dashboard: <br/>
-<img src="https://imgur.com/a/zRKghBQ" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pQ2dXYi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
