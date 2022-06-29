@@ -1,6 +1,6 @@
 # AzureSentinel
 Microsoft Azure Sentinel (SIEM configuration)
-<h1>JWipe - Disk Sanitization</h1>
+
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
